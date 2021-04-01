@@ -1,6 +1,6 @@
 var carta1 = {
     nome:"Bulbasaur",
-  imagem: "https://media.tenor.com/images/f4e3306e69a5c3a601c31b881e01c4ea/tenor.gif",
+   imagem: "https://media.tenor.com/images/f4e3306e69a5c3a601c31b881e01c4ea/tenor.gif",
     atributos: {
       Ataque:95,
       Defesa:70,
