@@ -550,7 +550,7 @@
   
  var carta56 = {
     nome:"Mankey",
-      imagem: "https://45.media.tumblr.com/26dc5c839db913a31fb6b85d3ebba615/tumblr_nrywvtCXRP1uuf7jyo1_500.gif",
+      imagem: "https://i.pinimg.com/originals/b7/0a/b5/b70ab5ce4cb222d77f74c2331c373176.gif",
     atributos: {
       Ataque:42,
       Defesa:60,
